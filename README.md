@@ -1,9 +1,9 @@
-# Project Overview
+## Project Overview
 
 A complete end‑to‑end data warehouse pipeline built using a Bronze → Silver → Gold architecture.
 This project demonstrates how raw ERP and CRM datasets are ingested, cleaned, standardised, modelled, and delivered for analytics, BI reporting, and machine learning.
 
-# Objectives
+## Objectives
 
 - Build a production‑grade data warehouse using modern medallion architecture
 - Demonstrate clean, modular data engineering practices
