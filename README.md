@@ -13,7 +13,7 @@ This project demonstrates how raw ERP and CRM datasets are ingested, cleaned, st
 - Implement star schemas, aggregated tables, and flat tables
 - Provide a clear, reusable structure for real‑world data projects
 
-## 📄 License
+## License
 
 This project is licensed under the **MIT License**.
 
@@ -21,7 +21,7 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 
 See the [LICENSE](./LICENSE) file for full details.
 
-## 👋 About Me
+## About Me
 
 I'm Mamoke Akaunu, a Data Engineer with experience in building scalable data pipelines, transforming raw data into analytics‑ready datasets, and improving data quality across complex systems. I enjoy working with SQL, Python, and modern data architectures to create reliable, efficient solutions that support reporting, automation, and decision‑making.
 
