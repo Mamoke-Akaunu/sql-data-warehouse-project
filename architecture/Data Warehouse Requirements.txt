@@ -1,0 +1,14 @@
+Data Warehouse Requirements
+
+Develop modern data warehouse using Microsoft Fabric to consildate erp, crm, field service management and compliance & risk to enable BI reporting and informed decision making
+
+Specifications:
+- Data Sources:
+	- ERP (Oracle Net Suite, Smartsheet)
+	- CRM (Salesforce, HubSpot)
+	- Field Service Management (Uptick, ClickUp)
+	- Compliance & Risks (RiskBase, QHub)
+- Data Quality: Cleans and resolve data quality issues prior to analysis
+- Integration: Combine all data sources in single, user-friendly data model designed for analytical queries
+- Scope: Latest data? Or both latest and historical
+- Documentation: Provide clear documentation of the data model to support both business stakeholder and analytics
